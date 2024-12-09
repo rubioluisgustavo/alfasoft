@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/da97bc66-04f2-4589-8104-30c358db74a1)
+
 # alfasoft test
 CRUD Laravel web application to manage contacts.
 
